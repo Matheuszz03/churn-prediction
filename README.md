@@ -1,4 +1,5 @@
 # Previsão de Churn — Telecom
+Video de apresentação - https://youtu.be/j_be2mfAJPQ
 
 Pipeline de Machine Learning para identificar clientes de uma operadora de telecomunicações com
 risco de cancelamento, da análise exploratória até um modelo servido por API REST.
